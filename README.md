@@ -110,9 +110,10 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-<img width="1920" height="1080" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/f3b1c6c1-d357-48e7-8633-be89b3efbd34" />
+<img width="1632" height="872" alt="Screenshot 2026-11-04 100248" src="https://github.com/user-attachments/assets/020e1758-b3cd-4b6d-82d6-2970f08a24a1" />
 
-<img width="1920" height="1080" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/563b804a-601d-4ca0-96bf-1c05870464eb" />
+
+
 
 ## RESULT
 Thus a Simple Android Application create a navigate button using Implicit Intent to display the gmail page using Android Studio is developed and executed successfully.
